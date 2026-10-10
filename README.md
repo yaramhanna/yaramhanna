@@ -1,6 +1,6 @@
  <div align="center">
 
-# 💜 Hey there, I'm Yara!
+## 💜 Hey there, I'm Yara!
 
 ### Future Full-Stack Developer 💻
 
@@ -25,7 +25,7 @@
 
 ---
 
-## 👾 Who am I?
+# 👾 Who am I?
 
 Hi, I'm Yara! 👋
 
@@ -37,7 +37,7 @@ I love the combination of creativity and logic that comes with development. I'm 
 
 ---
 
-## 🛤️ My Developer Journey
+# 🛤️ My Developer Journey
 
 <div align="center">
 
@@ -83,7 +83,7 @@ My goal is to turn what I learn into meaningful projects and continue growing as
 
 ---
 
-## 💌 Let's Connect!
+# 💌 Let's Connect!
 
 <div align="center">
 
@@ -105,7 +105,7 @@ I'm always happy to connect with other learners, developers, and people who love
 
 <br/>
 
-### 💜 From studying life to learning code.
+## 💜 From studying life to learning code.
 
 **This is just the beginning.**
 
